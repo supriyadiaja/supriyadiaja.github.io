@@ -1,0 +1,18 @@
+.jumbotron {
+    padding-top: 7rem;
+    background-color: #fff5ef;
+}
+
+section {
+    scroll-margin-top: 85px;
+}
+
+.navbar-brand {
+    font-family: 'Pacifico', cursive;
+}
+
+.jumbotron h1 {
+    /* font-family: 'Niconne', cursive; */
+    font-family: 'Syne', sans-serif;
+    color: #e4a787;
+}
